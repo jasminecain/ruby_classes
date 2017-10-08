@@ -29,6 +29,6 @@ end
 ```
 
 # Add the remaining methods to fill the requirements above
-Consider the concept of aggregation, and modify the Company class so that you assign employees to a company.
+Consider the concept of [aggregation](https://github.com/nashville-software-school/bangazon-ltd/blob/master/orientation/FND_14_INHERIT_COMPOSE_AGGREGATE.md), and modify the Company class so that you assign employees to a company.
 
 Create a company, and three employees, and then assign the employees to the company.
