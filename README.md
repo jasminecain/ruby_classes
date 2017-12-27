@@ -1,14 +1,13 @@
 # Classes
 
-###Setup
+### Setup
 
 ```bash
 mkdir -p ~/workspace/ruby/exercises/classes && cd $_
 touch employees.rb
 ```
 
-###Instructions
-
+### Instructions
 Create a class that contains information about employees of a company and define methods to get/set employee name, job title, and start date.
 
 Copy this Company class into your module.
